@@ -1,0 +1,9 @@
+FD 90
+RT 90
+FD 90
+REPEAT 10 {
+    FD 4
+    PU     
+    FD 4
+    PD    
+}
