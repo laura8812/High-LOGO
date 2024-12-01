@@ -1,4 +1,0 @@
-for i in range(360) {
-    FD 1
-    RT 1
-}
