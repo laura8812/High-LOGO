@@ -1,4 +1,5 @@
 Video del proyecto: https://drive.google.com/drive/folders/1kG3igf_XMKIMFixbfk8tecVeYu5aRUTx?usp=sharing
+o en youtube:https://youtu.be/AsnllkdowMQ
 
 Este proyecto es un intérprete y traductor para un lenguaje de programación llamado High-LOGO, diseñado para trabajar con gráficos de tortuga utilizando Python y su módulo turtle.
 
